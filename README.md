@@ -63,5 +63,5 @@ _(Replace with your public link if you want)_
 
 ## 🙌 Author
 
-> Created with 🔥 by **Bafti Cakir**
+> Created 🔥 by **Bafti Cakir**
 
